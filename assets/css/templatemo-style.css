@@ -808,5 +808,5 @@ section.contact-me {
 
 .lienRef {
     color: #CB7A5C;
-    text-decoration: underline;
+    text-decoration: underline !important;
 }
