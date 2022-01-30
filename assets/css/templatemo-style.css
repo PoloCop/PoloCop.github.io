@@ -805,3 +805,8 @@ section.contact-me {
         margin-bottom: 20px;
     }
 }
+
+.lienRef {
+    color: #CB7A5C;
+    text-decoration: underline;
+}
