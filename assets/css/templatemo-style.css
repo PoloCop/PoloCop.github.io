@@ -810,3 +810,12 @@ section.contact-me {
     color: #CB7A5C;
     text-decoration: underline !important;
 }
+
+.tailleimage {
+    width: 300px;
+    border-radius: 4%;
+}
+
+.tailleimage:hover {
+    opacity: 0.4;
+}
